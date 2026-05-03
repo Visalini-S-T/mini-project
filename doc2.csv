@@ -1,0 +1,8 @@
+bug_type,priority
+SyntaxError,1
+IndentationError,1
+NameError,2
+TypeError,2
+ZeroDivisionError,2
+IndexError,3
+ValueError,3
